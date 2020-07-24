@@ -1,3 +1,3 @@
-ipython kernel install --name widgets-tutorial --display-name widgets-tutorial --sys-prefix
+ipython kernel install --name jupyter-masterclass --display-name jupyter-masterclass --sys-prefix
 
-jupyter labextension install @jupyter-widgets/jupyterlab-manager @jupyter-widgets/jupyterlab-sidecar bqplot jupyter-threejs jupyter-leaflet@0.12.6 ipysheet ipytree ipycanvas jupyter-matplotlib jupyter-vuetify ipyvolume
+jupyter labextension install @jupyter-widgets/jupyterlab-manager bqplot jupyter-matplotlib
