@@ -1,3 +1,6 @@
 ipython kernel install --name jupyter-masterclass --display-name jupyter-masterclass --sys-prefix
 
 jupyter labextension install @jupyter-widgets/jupyterlab-manager bqplot jupyter-matplotlib
+
+# Setup a workspace
+jupyter lab workspaces import binder/workspace.json
