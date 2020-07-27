@@ -5,12 +5,12 @@ dependencies:
   - python=3.8
   - nodejs=12
   - jupyterlab=2
-  - ipywidgets=7.5
-  - seaborn=0.9
+  - ipywidgets
+  - seaborn
   - bqplot=0.12
-  - matplotlib=3.1
-  - pandas=0.25
-  - voila=0.1
+  - matplotlib
+  - pandas
+  - voila
   # - altair=3.1
   # - tensorflow=1.13
   # - sympy=1.4
