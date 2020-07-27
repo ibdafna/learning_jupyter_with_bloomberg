@@ -13,8 +13,9 @@ The “Learn Jupyter with Bloomberg” webinar series is focused on Jupyter, and
 5. Learn Jupyter with Bloomberg: Interactive Visualization with bqplot
 6. Learn Jupyter with Bloomberg: Dashboarding and Deployment with Voilà
 
+~~~~
 This webiars series will be held in python and you can find the following avialabel ressources:
 
-* FREE COURSE - very high-level overview, less "how to use Python" and more "what is Pyt~~~~hon?": [https://develop.com/course/Intro-Python](https://develop.com/course/Intro-Python)
+* FREE COURSE - very high-level overview, less "how to use Python" and more "what is Python?": [https://develop.com/course/Intro-Python](https://develop.com/course/Intro-Python)
 * FOUNDATION SUBSCRIPTION - still high-level, but should give you a basic knowledge of Python. Entry-level: [https://develop.com/courses/foundation-level/learn-software-development/](https://develop.com/courses/foundation-level/learn-software-development/) Software Development (if you scroll to the bottom of the page, you can see the Course Index). There are a few sub-topics that focus on Python here.
 * DATA ACADEMY SUBSCRIPTION -  intermediate/expert-level courses, much more in-depth: [https://develop.com/courses/academy-level/data-academy/get-started-data-academy/](https://develop.com/courses/academy-level/data-academy/get-started-data-academy/)
