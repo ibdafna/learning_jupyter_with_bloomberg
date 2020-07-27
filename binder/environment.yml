@@ -2,17 +2,17 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
+  - python=3.8
+  - nodejs=12
+  - jupyterlab=2
   - ipywidgets=7.5
-  # - altair=3.1
-  # - tensorflow=1.13
   - seaborn=0.9
   - bqplot=0.12
   - matplotlib=3.1
   - pandas=0.25
-  - jupyterlab=2
-  - nodejs=11
   - voila=0.1
-  - python=3.8
+  # - altair=3.1
+  # - tensorflow=1.13
   # - sympy=1.4
   # - scikit-learn=0.21
   # - scikit-image=0.15
