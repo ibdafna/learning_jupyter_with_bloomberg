@@ -3,20 +3,12 @@
     "layout-restorer:data": {
       "main": {
         "dock": {
-          "type": "split-area",
-          "orientation": "horizontal",
-          "sizes": [0.5, 0.5],
-          "children": [
-            {
-              "type": "tab-area",
-              "currentIndex": 0,
-              "widgets": [
-                "help-doc:https://jupyterlab.readthedocs.io/en/stable/"
-              ]
-            }
-          ]
+          "type": "tab-area",
+          "currentIndex": 1,
+          "widgets": ["markdownviewer-widget:WELCOME.md"]
         },
-        "mode": "multiple-document"
+        "mode": "multiple-document",
+        "current": "markdownviewer-widget:WELCOME.md"
       },
       "left": {
         "collapsed": false,
@@ -31,11 +23,8 @@
       "right": { "collapsed": true, "widgets": [] }
     },
     "file-browser-filebrowser:cwd": { "path": "notebooks" },
-    "help-doc:https://jupyterlab.readthedocs.io/en/stable/": {
-      "data": {
-        "url": "https://jupyterlab.readthedocs.io/en/stable/",
-        "text": "JupyterLab Reference"
-      }
+    "markdownviewer-widget:README.md": {
+      "data": { "path": "WELCOME.md", "factory": "Markdown Preview" }
     }
   },
   "metadata": { "id": "/lab" }
