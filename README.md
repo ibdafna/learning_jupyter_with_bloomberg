@@ -1,4 +1,4 @@
-# Jupyter Masterclass
+# Learning Jupyter with Bloomberg
 
 This webinar will run python code in JupyterLab.  Therefore, as a basic requirement, you will need to have both python and JupyterLab installed on our computer. Fortunately this is made easier thanks to package manages like *_conda_* and *_pip_*.
 
