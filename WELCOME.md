@@ -1,10 +1,8 @@
 # EXPERT WEBINAR SERIES: LEARN JUPYTER WITH BLOOMBERG
 
-Welcome to the jupyter masterclass tutorial!
+Welcome to the Jupyter Masterclass tutorial, a 6-part live webinar series with Bloomberg, focused on managing data with Jupyter.
 
-Welcome to this a 6-part live webinar series with Bloomberg, focused on managing data with Jupyter.
-
-The “Learn Jupyter with Bloomberg” webinar series is focused on Jupyter, and will cover an introduction to comparison between the classic Jupyter Notebook and JupyterLab, as well as how to choose a data source, how to analyze your data, and an overview of widgets and dashboarding.
+The “Learn Jupyter with Bloomberg” webinar series is focused on Jupyter, and will cover an introduction to and comparison between the classic Jupyter Notebook and JupyterLab, as well as how to choose a data source, how to analyze your data, and an overview of widgets and dashboarding.
 
 1. Learn Jupyter with Bloomberg: Introduction
 2. Learn Jupyter with Bloomberg: Choosing a Data Source
@@ -16,9 +14,9 @@ The “Learn Jupyter with Bloomberg” webinar series is focused on Jupyter, and
 
 ## Aditional ressoouces 
 
-This webiars series will be held in python and you can find the following avialabel ressources:
+This webinar series will be held in Python and you can find the following avialable ressources:
 
-* FREE COURSE - very high-level overview, less "how to use Python" and more "what is Python?": [https://develop.com/course/Intro-Python](https://develop.com/course/Intro-Python)
-* FOUNDATION SUBSCRIPTION - still high-level, but should give you a basic knowledge of Python. Entry-level: [https://develop.com/courses/foundation-level/learn-software-development/](https://develop.com/courses/foundation-level/learn-software-development/) Software Development (if you scroll to the bottom of the page, you can see the Course Index). There are a few sub-topics that focus on Python here.
-* DATA ACADEMY SUBSCRIPTION -  intermediate/expert-level courses, much more in-depth: [https://develop.com/courses/academy-level/data-academy/get-started-data-academy/](https://develop.com/courses/academy-level/data-academy/get-started-data-academy/)
+* FREE COURSE - very high-level overview, less "how to use Python" and more "what is Python?": [Intro to Python](https://develop.com/course/Intro-Python)
+* FOUNDATION SUBSCRIPTION - still high-level, but should give you a basic entry-level knowledge of Python: [Software Development](https://develop.com/courses/foundation-level/learn-software-development/) (if you scroll to the bottom of the page, you can see the Course Index). There are a few sub-topics that focus on Python here.
+* DATA ACADEMY SUBSCRIPTION - intermediate/expert-level courses, much more in-depth: [Get Started with the Data Academy](https://develop.com/courses/academy-level/data-academy/get-started-data-academy/)
 ~~~~
