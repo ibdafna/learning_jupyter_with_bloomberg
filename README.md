@@ -1,6 +1,6 @@
 # Learning Jupyter with Bloomberg
 
-This webinar will run Python code in JupyterLab. Therefore, as a basic requirement, you will need to have both Python and JupyterLab installed on your computer. Fortunately this is made easier thanks to package managers like *_conda_* and *_pip_*.
+This webinar will run Python code in JupyterLab. Therefore, as a basic requirement, you will need to have both Python and JupyterLab installed on your computer. Fortunately this is made easier thanks to package managers like *_Conda_* and *_Pip_*.
 
 ## Local or online
 You have two options when it comes to installing and running a working Python environment:
@@ -9,20 +9,20 @@ You have two options when it comes to installing and running a working Python en
 
 We recommend following along with a local installation, as it achieves two main goals: it teaches an integral part of development and Python programming in general, and it gives you more control over the installed packages and your data (which will persist in a local installation, but might not in an online environment). The instructions below will cover both options.
 
-### conda and pip
-**conda** is a language-agnostic cross-platform environment manager.
-**pip** is a general-purpose manager for Python packages.
+### Conda and Pip
+**Conda** is a language-agnostic cross-platform environment manager.
+**Pip** is a general-purpose manager for Python packages.
 
 For you, the user, the most salient distinction is probably this:
-* **conda** installs *any* package within *conda* environments;
-* **pip** installs *Python* packages within *any* environment.
+* **Conda** installs *any* package within *conda* environments;
+* **Pip** installs *Python* packages within *any* environment.
 
-**We highly recommend using conda as your package manager for this webinar, as it will allow you to install non-Python dependencies in an isolated environment. This will make for a much smoother installation process! But, if you still want to use pip, we have provided installation instructions below.**
+**We highly recommend using Conda as your package manager for this webinar, as it will allow you to install non-Python dependencies in an isolated environment. This will make for a much smoother installation process! But, if you still want to use pip, we have provided installation instructions below.**
 
-For **conda** installation: [https://docs.conda.io/projects/conda/en/latest/user-guide/install/](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
-For **pip** installation: [https://packaging.python.org/tutorials/installing-packages/](https://packaging.python.org/tutorials/installing-packages/)
+For **Conda** installation: [https://docs.conda.io/projects/conda/en/latest/user-guide/install/](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
+For **Pip** installation: [https://packaging.python.org/tutorials/installing-packages/](https://packaging.python.org/tutorials/installing-packages/)
 
-## Local installation with conda
+## Local installation with Conda
 
 ```bash
 # Clone this repository
@@ -31,10 +31,10 @@ git clone https://github.com/ibdafna/jupyter_masterclass
 # Navigate into the root directory of the clone repository
 cd jupyter_masterclass
 
-# Execute the conda installation recipe file. This will create conda environment and install all dependencies.
+# Execute the Conda installation recipe file. This will create Conda environment and install all dependencies.
 conda env create -f binder/environment.yml
 
-# Activate the conda environment
+# Activate the Conda environment
 conda activate jupyter-masterclass
 
 # Create a kernel for this environment
@@ -46,10 +46,10 @@ jupyter labextension install @jupyter-widgets/jupyterlab-manager bqplot
 
 Once you are done with the installation steps, you can start JupyterLab by executing `jupyter lab` in the root repo directory.
 
-## Local installation with pip
-`pip` is a Python package manager. As such, it can only bundle Python-related packages such as `pandas`, `numpy`, etc. Although Python is a big and integral part of the Jupyter ecosystem, we rely on other languages, such as JavaScript and TypeScript, for all of the front-end code. This means that we work with `nodejs` and `npm` quite a lot. 
+## Local installation with Pip
+`Pip` is a Python package manager. As such, it can only bundle Python-related packages such as `pandas`, `numpy`, etc. Although Python is a big and integral part of the Jupyter ecosystem, we rely on other languages, such as JavaScript and TypeScript, for all of the front-end code. This means that we work with `nodejs` and `npm` quite a lot. 
 
-To build JupyterLab and its assets, we need to transpile TypeScript code into JavaScript code and then bundle it into a single file which is consumed by the web browser. This process is achieved with `npm`, a JavaScript package manager. 'npm' is bundled with 'nodejs', so to get it installed, you will need to follow the 'nodejs' installation process. Please make sure `npm` is installed on your machine before continuing with the installation instructions below. 
+To build JupyterLab and its assets, we need to transpile TypeScript code into JavaScript code and then bundle it into a single file which is consumed by the web browser. This process is achieved with `npm`, a JavaScript package manager. `npm` is bundled with `nodejs`, so to get it installed, you will need to follow the 'nodejs' installation process. Please make sure `npm` is installed on your machine before continuing with the installation instructions below. 
 
 **nodejs/npm** installation: [https://nodejs.org/en/](https://nodejs.org/en/)
 
