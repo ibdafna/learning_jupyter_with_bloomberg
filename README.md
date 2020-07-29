@@ -85,4 +85,4 @@ Once you are done with the installation steps, you can start JupyterLab by execu
 
 Click the image below to run Binder with a pre-configured Jupyter Masterclass environment:
 
-[![Binder](docs/source/binder-logo.svg)](https://mybinder.org/v2/gh/ibdafna/jupyter_masterclass/master?urlpath=lab)
+[![Binder](docs/source/binder-logo.svg)](https://mybinder.org/v2/gh/ibdafna/learning_jupyter_with_bloomberg/master?urlpath=lab)
