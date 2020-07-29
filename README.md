@@ -26,10 +26,10 @@ For **Pip** installation: [https://packaging.python.org/tutorials/installing-pac
 
 ```bash
 # Clone this repository
-git clone https://github.com/ibdafna/jupyter_masterclass
+git clone https://github.com/ibdafna/learning_jupyter_with_bloomberg
 
 # Navigate into the root directory of the clone repository
-cd jupyter_masterclass
+cd learning_jupyter_with_bloomberg
 
 # Execute the Conda installation recipe file. This will create Conda environment and install all dependencies.
 conda env create -f binder/environment.yml
@@ -56,10 +56,10 @@ To build JupyterLab and its assets, we need to transpile TypeScript code into Ja
 Once you have installed `npm`, follow the installation instructions below:
 ```bash
 # Clone this repository
-git clone https://github.com/ibdafna/jupyter_masterclass
+git clone https://github.com/ibdafna/learning_jupyter_with_bloomberg
 
 # Navigate into the root directory of the clone repository
-cd jupyter_masterclass
+cd learning_jupyter_with_bloomberg
 
 # Create a virtual python virtual environment
 virtualenv jupyter-masterclass
