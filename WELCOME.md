@@ -22,7 +22,7 @@ Bloomberg Engineering: `@TechAtBloomberg`
 
 Develop: `@develop`
 
-## Aditional resources 
+## Additional resources 
 
 This webinar series will be held in Python and you can find the following avialable ressources:
 
