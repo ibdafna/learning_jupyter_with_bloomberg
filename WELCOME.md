@@ -11,8 +11,18 @@ The “Learn Jupyter with Bloomberg” webinar series is focused on Jupyter, and
 5. Learn Jupyter with Bloomberg: Interactive Visualization with bqplot
 6. Learn Jupyter with Bloomberg: Dashboarding and Deployment with Voilà
 
+## Connect with us on Twitter
+Keep the conversation going using **`#JupyterMasterClass`**
 
-## Aditional ressoouces 
+Itay Dafna: `@ItayD`
+
+Akin Mousse: `@MousseAkin`
+
+Bloomberg Engineering: `@TechAtBloomberg`
+
+Develop: `@develop`
+
+## Aditional resources 
 
 This webinar series will be held in Python and you can find the following avialable ressources:
 
