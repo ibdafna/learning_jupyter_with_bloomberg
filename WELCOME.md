@@ -24,7 +24,7 @@ Develop: `@develop`
 
 ## Additional resources 
 
-This webinar series will be held in Python and you can find the following avialable resources:
+This webinar series will be held in Python and you can find the following available resources:
 
 * FREE COURSE - very high-level overview, less "how to use Python" and more "what is Python?": [Intro to Python](https://develop.com/course/Intro-Python)
 * FOUNDATION SUBSCRIPTION - still high-level, but should give you a basic entry-level knowledge of Python: [Software Development](https://develop.com/courses/foundation-level/learn-software-development/) (if you scroll to the bottom of the page, you can see the Course Index). There are a few sub-topics that focus on Python here.
