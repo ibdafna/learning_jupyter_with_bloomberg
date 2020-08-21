@@ -12,7 +12,6 @@ dependencies:
   - pandas=1.0
   - voila=0.1
   - altair=4.1
-  - tensorflow=2
   - sympy=1.4
   - scikit-learn=0.23
   - scikit-image=0.17
