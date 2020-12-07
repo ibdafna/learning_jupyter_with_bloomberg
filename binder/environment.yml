@@ -11,7 +11,10 @@ dependencies:
   - matplotlib
   - pandas=1.0
   - voila=0.2.4
+  - voila-vuetify=0.5.1
+  - voila-gridstack=0.0.12
   - altair=4.1
   - sympy=1.4
+  - ipyvuetify=1.5.1
   - scikit-learn=0.23
   - scikit-image=0.17
