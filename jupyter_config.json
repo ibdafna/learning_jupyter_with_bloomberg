@@ -1,11 +1,4 @@
 {
   "VoilaConfiguration": {
-    "theme": "dark",
-    "template": "gridstack",
-    "resources": {
-      "gridstack": {
-        "show_handles":true
-      }
-    }
-  }
+    "theme": "dark"
 }
